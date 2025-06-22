@@ -17,5 +17,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		<logger level="INFO" doc:name="Logger" doc:id="b1692359-d49e-4fd6-aea9-7eb8fac81590" />
 		<logger level="INFO" doc:name="Logger" doc:id="50f29772-feed-4155-bb0c-dab3be3049aa" />
 		<logger level="INFO" doc:name="Logger" doc:id="f4ba5243-0046-4409-a274-79614b86d6a0" />
+		<logger level="INFO" doc:name="Logger" doc:id="d776b3a1-8f96-41ab-b239-13ebcf393886" />
 	</flow>
 </mule>
